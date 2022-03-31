@@ -1,4 +1,4 @@
-Isto é um modpack feito por amigos para que possamos jogar casualmente, o que contém é mods que não afetam diretamente a jogabilidade, mas que oferece mais funções e conteúdos.
+Isto é um modpack feito por amigos para que possamos jogar casualmente, o que contém é mods que podem afetar diretamente a jogabilidade, com funções, conteúdos diversos e mecânicas.
 
 Está incluso; magia, tecnologia, botânica, mobs, facilidade de acesso, interface personalizada e mais... Tudo está sendo feito cuidadosamente por uma boa equipe, mas ainda levará um tempo para que todo o modpack ofereça a experiência que queremos.
 
